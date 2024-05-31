@@ -23,11 +23,14 @@
             "id": "fa1b33012725822d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GM.md",
-                "mode": "source",
-                "source": false
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "viewState": {
+                  "x": -56.798141128771675,
+                  "y": -49.42198125901993,
+                  "zoom": -0.9802633338691414
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM.md",
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM.md",
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM.md"
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas"
               }
             }
           },
@@ -183,8 +186,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -198,14 +199,17 @@
       "moulinette:Moulinette Browser": false,
       "rpg-manager:RPG Manager": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fa1b33012725822d",
+  "active": "b4a5925835145fca",
   "lastOpenFiles": [
+    "GM.md",
+    "smart-chats",
     "README.md",
     "Cannoli College/Example notes/Apple Trees.md",
-    "GM.md",
     "Untitled Kanban.md",
     "Cannoli College/Example notes/Walking Poem.md",
     "Cannoli College/Example notes/Meeting Notes.md",
@@ -245,10 +249,8 @@
     "spells/Wall of Fire.md",
     "spells/Vicious Mockery.md",
     "spells/Vampiric Touch.md",
-    "spells/Unseen Servant.md",
     "spells",
     "npcs",
-    "monsters",
     "5eRuleset/Lore/Pasted image 20240118190705.png",
     "5eRuleset/Lore/Pasted image 20240118185927.png",
     "5eRuleset/Lore/Pasted image 20240118185916.png"
