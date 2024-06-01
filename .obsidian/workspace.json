@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5db2ef5f6a0aeea1",
+        "id": "4bb68875867a9759",
         "type": "tabs",
         "children": [
           {
-            "id": "366688840d0b6f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cannoli College/Example notes/Apple Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1b33012725822d",
+            "id": "1f0828268bbcde5b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
                 "viewState": {
-                  "x": -56.798141128771675,
-                  "y": -49.42198125901993,
-                  "zoom": -0.9802633338691414
+                  "x": -1250,
+                  "y": -239,
+                  "zoom": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "095c016896b1bfc9",
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas"
+                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas"
               }
             }
           },
@@ -198,19 +185,27 @@
       "obsidian-kanban:Create new board": false,
       "moulinette:Moulinette Browser": false,
       "rpg-manager:RPG Manager": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b4a5925835145fca",
+  "active": "1f0828268bbcde5b",
   "lastOpenFiles": [
+    "dnd Cannoli Character Creation/DND Cannoli Character JigNig.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Sir Jaca de mein.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Racksteerr.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Duke Pelados.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Pestañita 3000.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
+    "README.md",
+    "Welcome.md",
+    "Untitled Kanban.md",
+    "Cannoli College/1. Basics/1. Hello world.canvas",
     "GM.md",
     "smart-chats",
-    "README.md",
     "Cannoli College/Example notes/Apple Trees.md",
-    "Untitled Kanban.md",
     "Cannoli College/Example notes/Walking Poem.md",
     "Cannoli College/Example notes/Meeting Notes.md",
     "Cannoli College/Example notes/Lemons for Cleaning.md",
@@ -220,12 +215,6 @@
     "Cannoli College/5. Groups/1. Basic groups.canvas",
     "Cannoli College/5. Groups",
     "Cannoli College/4. Vault interaction/7. Embedding Search (Smart Connections).canvas",
-    "Cannoli College/4. Vault interaction/6. Dataview.canvas",
-    "Cannoli College/4. Vault interaction/5. Referencing selections.canvas",
-    "Cannoli College/4. Vault interaction/4. Creating notes.canvas",
-    "Cannoli College/4. Vault interaction/3. Dynamic note references.canvas",
-    "Cannoli College/4. Vault interaction/2. Writing to notes.canvas",
-    "Cannoli College/4. Vault interaction/1. Referencing notes.canvas",
     "Cannoli College/4. Vault interaction",
     "Cannoli College/3. Special nodes",
     "Cannoli College/2. Special arrows",
@@ -248,7 +237,6 @@
     "spells/Wall of Force.md",
     "spells/Wall of Fire.md",
     "spells/Vicious Mockery.md",
-    "spells/Vampiric Touch.md",
     "spells",
     "npcs",
     "5eRuleset/Lore/Pasted image 20240118190705.png",
