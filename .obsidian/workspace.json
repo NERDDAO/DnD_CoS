@@ -11,14 +11,11 @@
             "id": "1f0828268bbcde5b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
-                "viewState": {
-                  "x": -1250,
-                  "y": -239,
-                  "zoom": 0
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 441.5
   },
   "right": {
     "id": "095c016896b1bfc9",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas"
+                "file": "Welcome.md"
               }
             }
           },
@@ -165,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,17 +190,19 @@
   },
   "active": "1f0828268bbcde5b",
   "lastOpenFiles": [
-    "dnd Cannoli Character Creation/DND Cannoli Character JigNig.canvas",
-    "dnd Cannoli Character Creation/DND Cannoli Character Sir Jaca de mein.canvas",
-    "dnd Cannoli Character Creation/DND Cannoli Character Racksteerr.canvas",
-    "dnd Cannoli Character Creation/DND Cannoli Character Duke Pelados.canvas",
-    "dnd Cannoli Character Creation/DND Cannoli Character Pestañita 3000.canvas",
-    "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
     "README.md",
-    "Welcome.md",
     "Untitled Kanban.md",
-    "Cannoli College/1. Basics/1. Hello world.canvas",
     "GM.md",
+    "dnd Cannoli Character Creation/DND Cannoli Character Pestañita 3000.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Drakario.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Lord Kerolo.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Sir Jaca de mein.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character JigNig.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Duke Pelados.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character creation.canvas",
+    "dnd Cannoli Character Creation/DND Cannoli Character Racksteerr.canvas",
+    "Welcome.md",
+    "Cannoli College/1. Basics/1. Hello world.canvas",
     "smart-chats",
     "Cannoli College/Example notes/Apple Trees.md",
     "Cannoli College/Example notes/Walking Poem.md",
@@ -211,10 +210,7 @@
     "Cannoli College/Example notes/Lemons for Cleaning.md",
     "Cannoli College/Example notes",
     "Cannoli College/5. Groups/3. Loop group features.canvas",
-    "Cannoli College/5. Groups/2. Loop groups.canvas",
-    "Cannoli College/5. Groups/1. Basic groups.canvas",
     "Cannoli College/5. Groups",
-    "Cannoli College/4. Vault interaction/7. Embedding Search (Smart Connections).canvas",
     "Cannoli College/4. Vault interaction",
     "Cannoli College/3. Special nodes",
     "Cannoli College/2. Special arrows",
